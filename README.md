@@ -1,1 +1,1 @@
-Vanilla JS stusy
+Vanilla JS study
